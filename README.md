@@ -1,4 +1,4 @@
-Zotero
+Zotero-hikari by Miyano
 ======
 [![CI](https://github.com/zotero/zotero/actions/workflows/ci.yml/badge.svg)](https://github.com/zotero/zotero/actions/workflows/ci.yml)
 
